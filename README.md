@@ -81,7 +81,7 @@ For example:
 Uncomment the line 21 ``#define SEARCH_EFFICIENCY       1`` in file config.hpp and recompile.
 
 ## Configuring Number of Threads
-Change the constants defined at lines 4, 5 and 6: ``const int MAX_THREADS_INIT      = 8;``, ``const int MAX_THREADS_SEARCH      = 8;`` and ``const int MAX_THREADS_REBUILD      = 8;`` in file **config.hpp** and recompile server. 
+Change the constants defined at lines 4, 5 and 6: ``const int MAX_THREADS_INIT      = 8;`` and ``const int MAX_THREADS_SEARCH      = 8;`` in file **config.hpp** and recompile server. 
 ``` 
 make server
 ```
