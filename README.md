@@ -66,12 +66,6 @@ cd client
 ./client -u [<number_of_updates>]
 ```
 
-For rebuild:
-```
-cd client
-./client -r
-```
-
 For example: 
 ```
 ./client -s university 150    // Search keyword "university" over databases of 150 writers
@@ -79,10 +73,6 @@ For example:
 
 ```
 ./client -u 150               // Update 150 new keywords
-```
-
-```
-./client -r                   // Rebuild
 ```
 
 **NOTE**: We only need to start server one time. 
