@@ -94,3 +94,22 @@ Modify the server's IP address at line 682 ``string server_address = "tcp://127.
 make client
 ```
 
+## Citing
+
+If the code is found useful, we would be appreciated if our paper can be cited with the following bibtex format: 
+
+```
+@inproceedings {le2025hermes,
+author = {Le, Tung and  Hoang, Thang},
+title = {{Hermes: Efficient and Secure Multi-Writer Encrypted Database}},
+booktitle = {46th IEEE Symposium on Security and Privacy (IEEE S&P 2025)},
+year = {2025},
+address = {San Francisco, CA, USA},
+month = {May},
+year = {2025}
+}
+```
+
+# Further Information
+For any inquiries, bugs, and assistance on building and running the code, please contact me at [tungle@vt.edu](mailto:tungle@vt.edu?Subject=[Hermes]%20Inquiry).
+
