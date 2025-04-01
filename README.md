@@ -99,7 +99,7 @@ make client
 If the code is found useful, we would be appreciated if our paper can be cited with the following bibtex format: 
 
 ```
-@inproceedings {le2025hermes,
+@inproceedings{le2025hermes,
 author = {Le, Tung and  Hoang, Thang},
 title = {{Hermes: Efficient and Secure Multi-Writer Encrypted Database}},
 booktitle = {46th IEEE Symposium on Security and Privacy (IEEE S&P 2025)},
