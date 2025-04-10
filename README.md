@@ -1,4 +1,4 @@
-# Hermes: Efficient and Secure Multi-Writer Encrypted Database
+Efficient and Secure Multi-Writer Encrypted Database
 
 This is our full implementation for our [Hermes paper].
 
