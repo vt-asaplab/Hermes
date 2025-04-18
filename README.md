@@ -1,5 +1,5 @@
 # Hermes: Efficient and Secure Multi-Writer Encrypted Database
-This is our full implementation for our [Hermes paper].
+This is our full implementation for our [Hermes paper](https://eprint.iacr.org/2025/701).
 
 **WARNING**: This is an academic proof-of-concept prototype and has not received careful code review. This implementation is NOT ready for production use.
 
