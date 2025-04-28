@@ -103,6 +103,7 @@ author = {Le, Tung and  Hoang, Thang},
 title = {{Hermes: Efficient and Secure Multi-Writer Encrypted Database}},
 booktitle = {46th IEEE Symposium on Security and Privacy (IEEE S&P 2025)},
 year = {2025},
+pages = {2642-2661},
 address = {San Francisco, CA, USA},
 month = {May},
 year = {2025}
