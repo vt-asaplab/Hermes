@@ -1,4 +1,8 @@
 # Hermes: Efficient and Secure Multi-Writer Encrypted Database
+
+![x86](https://github.com/vt-asaplab/Hermes/blob/main/Hermes/workflows/x86/badge.svg)
+![arm](https://github.com/vt-asaplab/Hermes/blob/main/Hermes/workflows/arm/badge.svg)
+
 This is our full implementation for our [Hermes paper](https://eprint.iacr.org/2025/701).
 
 **WARNING**: This is an academic proof-of-concept prototype and has not received careful code review. This implementation is NOT ready for production use.
@@ -113,3 +117,4 @@ year = {2025}
 # Further Information
 For any inquiries, bugs, and assistance on building and running the code, please contact me at [tungle@vt.edu](mailto:tungle@vt.edu?Subject=[Hermes]%20Inquiry).
 
+<img src="https://github.com/vt-asaplab/Hermes/blob/main/Hermes/workflows/hermes-icon.jpg" height="250">
