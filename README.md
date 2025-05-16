@@ -117,4 +117,4 @@ year = {2025}
 # Further Information
 For any inquiries, bugs, and assistance on building and running the code, please contact me at [tungle@vt.edu](mailto:tungle@vt.edu?Subject=[Hermes]%20Inquiry).
 
-<img src="https://github.com/vt-asaplab/Hermes/blob/main/Hermes/workflows/hermes-icon.jpg" height="250">
+<img src="https://github.com/vt-asaplab/Hermes/blob/main/Hermes/workflows/hermes-icon.jpg" height="150">
